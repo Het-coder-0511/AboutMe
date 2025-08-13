@@ -10,5 +10,5 @@ I'm a web developer with a diverse skill set in both front-end and back-end tech
  - C: Programming and problem-solving using C.
  - C++: Advanced programming with C++.
 **Contact**
-Email: hetpanchal0511@gmail.com
-Feel free to explore my repositories to see some of my work!
+ - Email: hetpanchal0511@gmail.com
+ - Feel free to explore my repositories to see some of my work!
